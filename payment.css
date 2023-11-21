@@ -1,0 +1,53 @@
+body{
+    direction: rtl;
+ 
+}
+.open{
+    background-color: white;
+    padding-top: 60px;
+}
+.open > img{
+    height: 300px;
+   margin-right: 650px;
+   padding-top: 40px;
+   padding-bottom: 40px;
+}
+nav.menu> div > ul>li >a{
+    color: rgb(185, 238, 209);
+}
+ nav.menu> div > ul>li >a:hover{
+    background-color: rgb(185, 238, 209);
+     color: #000;
+ }
+ .navMenu{
+    position: fixed;
+    top: 0px;
+    width: 99vw;
+}
+form > div > div{
+    width: 650px;
+}
+
+#content{
+    margin-top: 50px;
+}
+#content > form > div{
+    padding-right: 80px;
+    padding-left: 80px;
+    padding-bottom: 50px;
+    padding-top:50px ;
+   
+}
+.customerInformation{
+    background-color: rgb(185, 238, 209);
+}
+.paymentInformation{
+    background-color:rgb(255, 255, 178);
+}
+#submit{
+    direction: ltr;
+    padding-top: 0px;
+}
+.branch{
+    background-color: rgb(193, 234, 255);;
+}

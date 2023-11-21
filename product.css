@@ -1,0 +1,54 @@
+body{
+    direction: rtl;
+   
+}
+.open{
+    background-color: white;
+    padding-top: 60px;
+}
+.open > img{
+    height: 300px;
+   margin-right: 640px;
+   padding-top: 40px;
+   padding-bottom: 40px;
+}
+
+#content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-left: 200px;
+    padding-right: 180px;
+    padding-bottom: 50px;
+    padding-top: 70px;
+    background-color: beige;
+}
+#content > div{
+    border: 5px rgb(224, 171, 171) solid ;
+    margin-right: 60px;
+    margin-top: 50px;
+}
+#content > div > img{
+    height: 200px ;
+}
+#content > div > a{
+    color: rgb(224, 171, 171) ;
+    text-align: center;
+    font-size: 40px;
+    display: block;
+    padding-right: 20px;
+    text-decoration: none;
+}
+nav.menu> div > ul>li >a{
+   color: beige;
+}
+nav.menu> div > ul>li >a:hover{
+    background-color: beige;
+    color: #000;
+}
+
+.navMenu{
+    position: fixed;
+    top: 0px;
+    width: 99vw;
+}

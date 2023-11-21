@@ -1,0 +1,31 @@
+nav.menu> div > ul>li >a{
+    color: beige;
+ }
+ nav.menu> div > ul>li >a:hover{
+    background-color: beige;
+     color: #000;
+ }
+ .navMenu{
+    position: fixed;
+    top: 0px;
+    width:100vw;
+}
+body{
+    direction: rtl;
+    background-color: #000;
+}
+#content{
+    margin-top: 30px;
+    width: 100vw;
+    background-image: url(pictures/open-product.png);
+    background-color: #000;
+    background-repeat: no-repeat;
+    height: 95vh;
+    background-position: center;
+}
+#content > div{
+    padding-left: 100px;
+   color: white;
+   padding-top: 100px;
+   direction: ltr;
+}

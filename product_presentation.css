@@ -1,0 +1,99 @@
+body{
+    direction: rtl;
+   
+}
+.open{
+    background-color: white;
+    padding-top: 60px;
+}
+.open > img{
+    height: 250px;
+   margin-right: 650px;
+   padding-top: 40px;
+   padding-bottom: 40px;
+}
+
+#content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 500px;
+   
+}
+#content > div{
+  
+    margin-right: 120px;
+    margin-top: 50px;
+    align-items: center;
+    
+}
+#content > div >img{
+    height: 200px ;
+    align-items: center;
+    background-color: white;
+}
+#content > div >div >img{
+    height: 200px ;
+    align-items: center;
+    background-color: white;
+}
+label{
+    display: block;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(197, 136, 136);
+    padding-bottom: 20px;
+}
+.price{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 50px;
+    color:rgb(91, 61, 61); ;
+}
+.yourOrder{
+    padding-top: 20px;
+    text-align: center;
+    color: rgb(140, 94, 94);
+}
+.yourOrder > h1{
+    font-size: 100px;
+}
+#content > div >label.title{
+    font-size: 60px;
+    color:rgb(91, 61, 61);
+}
+nav.menu> div > ul>li >a{
+    color: rgb(193, 234, 255);
+ }
+ nav.menu> div > ul>li >a:hover{
+    background-color: rgb(193, 234, 255);
+     color: #000;
+ }
+ .allElements{
+    background-color: rgb(193, 234, 255);
+     margin-bottom: 0px;
+ }
+ .navMenu{
+    position: fixed;
+    top: 0px;
+    width: 99vw;
+}
+.buttons{
+    background-color: rgb(193, 234, 255);
+    text-align: left;
+    padding-left: 50px;
+    padding-bottom: 30px;
+}
+.buttons > a> button{
+    color: rgb(193, 234, 255);
+    background-color: rgb(224, 171, 171) ;
+     font-size: 20px;
+    border: 5px rgb(193, 234, 255) solid;
+    width: 150px;
+    height: 50px;
+   
+}
+.buttons > a> button:hover{
+    background-color: rgb(193, 234, 255);
+    color: rgb(224, 171, 171) ;
+}

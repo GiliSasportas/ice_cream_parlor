@@ -1,0 +1,36 @@
+[{
+    "city":"ירושלים",
+    "street":"גולדה מאיר",
+    "housNumber":225,
+    "phonNumber":"02-5606600"
+},{
+    "city":"ירושלים",
+    "street":"תפארת ישראל",
+    "housNumber":17,
+    "phonNumber":"02-6282813"
+},{
+    "city":"ירושלים",
+    "street":"ירמיהו",
+    "housNumber":43,
+    "phonNumber":"02-6506565"
+},{
+    "city":"בית שמש",
+    "street":"ישעיהו הנביא",
+    "housNumber":13,
+    "phonNumber":"02-6535122"
+},{
+    "city":"בני ברק",
+    "street":"רבי עקיבא",
+    "housNumber":76,
+    "phonNumber":"03-6343477"
+},{
+    "city":"בני ברק",
+    "street":"הרב כהנמן",
+    "housNumber":104,
+    "phonNumber":"03-7397838"
+},{
+    "city":"פתח תקווה",
+    "street":"ישעיהו המשורר",
+    "housNumber":1,
+    "phonNumber":"03-5099140"
+}]

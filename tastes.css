@@ -1,0 +1,79 @@
+body{
+    direction: rtl;
+    
+}
+.open{
+    background-color: white;
+    padding-top: 60px;
+}
+.open > img{
+    height: 300px;
+   margin-right: 650px;
+   padding-top: 40px;
+   padding-bottom: 40px;
+}
+
+#content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-left: 200px;
+    padding-right: 180px;
+    padding-top: 70px;
+   
+    
+}
+#content > div{
+    border: 5px  #000 solid ;
+    margin-right: 120px;
+    margin-top: 50px;
+    text-align: center;
+}
+#content > div >img{
+    height: 200px ;
+    background-color: white;
+}
+#content > div >label{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    color: #000;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+#alert{
+    width: 100vw;
+    position: fixed;
+    top: 15px;
+}
+.finish{
+    direction: ltr;
+    display: block;
+    padding-left: 200px;
+    padding-bottom: 100px;
+}
+.finish > button{
+    margin-bottom: 50px;
+}
+.finish :hover {
+    background-color: white;
+    color: black;
+}
+nav.menu> div > ul>li >a{
+    color: rgb(255, 114, 128);
+ }
+ nav.menu> div > ul>li >a:hover{
+    background-color: rgb(255, 114, 128);
+     color: #000;
+ }
+ .allElements{
+    background-color: rgb(255, 114, 128);
+    margin-bottom: 0px;
+ }
+ .navMenu{
+    position: fixed;
+    top: 0px;
+    width: 99vw;
+}
+
+ 

@@ -1,0 +1,19 @@
+nav.menu> div > ul>li >a{
+    color: rgb(255, 193, 229);
+ }
+ nav.menu> div > ul>li >a:hover{
+    background-color: rgb(255, 193, 229);
+     color: #000;
+ }
+ .navMenu{
+    position: fixed;
+    top: 0px;
+    width:100vw;
+}
+body{
+    direction: rtl;
+}
+#content > img{
+    width: 100vw;
+    height: 100vh;
+}

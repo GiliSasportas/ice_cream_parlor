@@ -1,0 +1,40 @@
+#content> h2{
+    margin-top: 50px;
+    color: white;
+}
+body{
+    direction: rtl;
+   
+}
+.open{
+    background-color: white;
+    padding-top: 60px;
+}
+.open > img{
+    height: 250px;
+   margin-right: 650px;
+   padding-top: 40px;
+   padding-bottom: 40px;
+}
+
+#content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(255, 114, 128);
+    width: 100vw;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+nav.menu> div > ul>li >a{
+    color: rgb(255, 114, 128);
+}
+ nav.menu> div > ul>li >a:hover{
+    background-color: rgb(255, 114, 128);
+     color: #000;
+ }
+ .navMenu{
+    position: fixed;
+    top: 0px;
+    width: 100vw;
+}

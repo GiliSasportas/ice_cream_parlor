@@ -1,0 +1,57 @@
+body{
+    direction: rtl;
+ 
+}
+.open{
+    background-color: white;
+    padding-top: 60px;
+}
+.open > img{
+    height: 300px;
+   margin-right: 650px;
+   padding-top: 40px;
+   padding-bottom: 40px;
+}
+#content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-left: 200px;
+    padding-right: 180px;
+    padding-bottom: 50px;
+    padding-top: 70px;
+    background-color: rgb(185, 238, 209);
+}
+#content > div{
+    border: 5px rgb(224, 171, 171) solid ;
+    margin-right: 120px;
+    margin-top: 50px;
+}
+#content > div > a >img{
+    height: 200px ;
+}
+#content > div > a >label{
+    display: block;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(197, 136, 136);
+}
+#content > div > a >label.price{
+    color:rgb(111, 112, 111) ;
+    font-size: 25px;
+}
+#content > div > a{
+    text-decoration: none;
+}
+nav.menu> div > ul>li >a{
+    color: rgb(185, 238, 209);
+}
+ nav.menu> div > ul>li >a:hover{
+    background-color: rgb(185, 238, 209);
+     color: #000;
+ }
+ .navMenu{
+    position: fixed;
+    top: 0px;
+    width: 99vw;
+}

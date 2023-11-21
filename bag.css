@@ -1,0 +1,92 @@
+body{
+    direction: rtl;
+   
+}
+.open{
+    background-color: white;
+    padding-top: 60px;
+}
+.open > img{
+    height: 300px;
+   margin-right: 640px;
+   padding-top: 40px;
+   padding-bottom: 40px;
+}
+
+#content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-left: 200px;
+    padding-right: 180px;
+    padding-bottom: 50px;
+    padding-top: 70px;
+    background-color: beige;
+    text-align: center;
+}
+#content > div{
+    border: 5px rgb(224, 171, 171) solid ;
+    margin-right: 60px;
+    margin-top: 50px;
+}
+#content > div > img{
+    height: 200px ;
+}
+#content > div > label{
+    color: rgb(224, 171, 171) ;
+    text-align: center;
+    font-size: 40px;
+    display: block;
+    padding-right: 20px;
+}nav.menu> div > ul>li >a{
+    color: beige;
+ }
+ nav.menu> div > ul>li >a:hover{
+     background-color: beige;
+     color: #000;
+ }
+ 
+ .navMenu{
+     position: fixed;
+     top: 0px;
+     width: 99vw;
+ }
+ .removeButton{
+    color: beige;
+    background-color: rgb(224, 171, 171) ;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border-color:rgb(224, 171, 171)  ;
+    border-radius: 15px;
+ }
+ #sumPayment{
+    color: beige;
+    background-color: rgb(224, 171, 171) ;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: inline-block;
+    width: 75%;
+ }
+.payment{
+    display: inline-block;
+}
+.payment > a> button{
+    color: beige;
+    background-color: rgb(224, 171, 171) ;
+     font-size: 20px;
+    border: 5px beige solid;
+    width: 150px;
+    height: 50px;
+   
+}
+.payment > a> button:hover{
+    background-color: beige;
+    color: rgb(224, 171, 171) ;
+}
+.paymentElements{
+    width: 100vw;
+    height:100px;
+    background-color: rgb(224, 171, 171) ;
+}

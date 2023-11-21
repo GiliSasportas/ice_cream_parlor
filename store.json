@@ -1,0 +1,245 @@
+[   {
+        "id":1,
+        "name":"וופל בלגי",
+            "picture":"belgian_waffles.jpg",
+            "sizes":[
+                {
+                    "size":1,
+                    "quantity":"מקלות",
+                    "picture":"belgian_waffle_sticks.jpg",
+                    "tastesQuantity":0,
+                    "price":15
+                },{
+                    "size":2,
+                    "quantity":"גדול",
+                    "picture":"large_belgian_waffle.jpg",
+                    "tastesQuantity":0,
+                    "price":28
+                }],
+        "Extras":[
+            {
+                "name":"סירופ שוקולד",
+                "picture":"choclate_syrup.jpg"
+            },{
+                "name":"ריבת חלב",
+                "picture":"karamel.jpg"
+            },{
+                "name":"קורקנט בוטנים" ,
+                "picture":"peanuts.jpg"
+            },{
+                "name":"פקאן",
+                "picture":"pecan.jpg"
+            },{
+                "name":"קוקוס",
+                "picture":"coconut.jpg"
+            },{
+                "name":"סוכריות",
+                "picture":"candies.jpg"
+            },{
+                "name":"מקופלת חומה",
+                "picture":"milk_choclate.jpg"
+            },{
+                "name":"מקופלת לבנה",
+                "picture":"white_choclate.jpg"
+            }]
+    },{
+        "id":2,
+        "name":"קרפ צרפתי",
+        "picture":"french_crape.jpg",
+        "sizes":[
+                    {
+                      "size":1,
+                       "quantity":"גודל 1",
+                       "picture":"french_crape.jpg",
+                       "tastesQuantity":0,
+                        "price":26
+                }],
+        "Extras":[
+                    {
+                        "name":"סירופ שוקולד",
+                        "picture":"choclate_syrup.jpg"
+                    },{
+                        "name":"ריבת חלב",
+                        "picture":"karamel.jpg"
+                    },{
+                        "name":"קורקנט בוטנים" ,
+                        "picture":"peanuts.jpg"
+                    },{
+                        "name":"פקאן",
+                        "picture":"pecan.jpg"
+                    },{
+                        "name":"קוקוס",
+                        "picture":"coconut.jpg"
+                    },{
+                        "name":"סוכריות",
+                        "picture":"candies.jpg"
+                    },{
+                        "name":"מקופלת חומה",
+                        "picture":"milk_choclate.jpg"
+                    },{
+                        "name":"מקופלת לבנה",
+                        "picture":"white_choclate.jpg"
+                }]
+    },{
+        "id":3,
+        "name":"גלידה",
+        "picture":"ice_cream.jpg",
+        "sizes":[{
+                        "size":1,
+                        "quantity":"כדור 1",
+                        "picture":"small_ice_cream.jpg",
+                        "tastesQuantity":1,
+                        "price":15
+                    },{
+                        "size":2,
+                        "quantity":"2 כדורים",
+                        "picture":"large_ice_cream.jpg",
+                        "tastesQuantity":2,
+                        "price":24
+                    },{
+                        "size":3,
+                        "quantity":"חצי קילו",
+                        "picture":"ice_cream_size_4.jpg",
+                        "tastesQuantity":5,
+                        "price":50
+                    }],
+        "tastes":[{
+                        "name":"וניל",
+                        "picture":"vanil_ice_cream.jpg"
+                    },{
+                        "name":"פיסטוק",
+                        "picture":"pistuk_ice_cream.jpg"
+                    },{
+                        "name":"ריבת חלב",
+                        "picture":"karamel_ice_cream.jpg"
+                    },{
+                        "name":"וניל צרפתי",
+                        "picture":"french_vanil_ice_cream.jpg"
+                    },{
+                        "name":"נוגט",
+                        "picture":"nogat_ice_cream.jpg"
+                    },{
+                        "name":"שוקולד",
+                        "picture":"choclate_ice_cream.jpg"
+                    },{
+                        "name":"תותים בשמנת",
+                        "picture":"strawberries_in_cream_ice_cream.jpg"
+                    },{
+                        "name":"בננה",
+                        "picture":"banana_ice_cream.jpg"
+                    },{
+                        "name":"פירות יער",
+                        "picture":"berries_ice_cream.jpg"
+                    },{
+                        "name":"תות",
+                        "picture":"strawberry_ice_cream.jpg"
+                    },{
+                        "name":"מסטיק",
+                        "picture":"bubble_gum_ice_cream.jpg"
+                    }
+                ],
+        "Extras":[{
+                        "name":"קצפת",
+                        "picture":"whipped_cream.jpg"
+                    },{
+                        "name":"סוכריות",
+                        "picture":"candies.jpg"
+                    },{
+                        "name":"סירופ שוקולד",
+                        "picture":"choclate_syrup.jpg"
+                    }
+                ]
+    },{
+        "id":4,
+        "name":"אייסים",
+        "picture":"ice.jpg",
+        "sizes":[   {
+                        "size":1,
+                        "quantity":"קטן",
+                        "picture":"small_ice.jpg",
+                        "tastesQuantity":1,
+                        "price":6
+                    },{
+                        "size":2,
+                        "quantity":"בינוני",
+                        "picture":"medium_ice.jpg",
+                        "tastesQuantity":1,
+                        "price":10
+                    },{
+                        "size":3,
+                        "quantity":"גדול",
+                        "picture":"large_ice.jpg",
+                        "tastesQuantity":1,
+                        "price":15
+            
+                }],
+        "tastes":[{
+                    "name":"אייס קפה",
+                    "picture":"ice_coffee.jpg"
+                },{
+                    "name":"אייס וניל",
+                    "picture":"ice_vanil.jpg"   
+                }],
+        "Extras":[
+                    {
+                        "name":"סירופ שוקולד",
+                        "picture":"choclate_syrup.jpg"
+                    },{
+                        "name":"ריבת חלב",
+                        "picture":"karamel.jpg"
+                    },{
+                        "name":"קצפת",
+                       "picture":"whipped_cream.jpg"
+                    }]
+    },{
+        "id":5,
+        "name":"פרוזן",
+        "picture":"frozen.jpg",
+        "sizes":[ 
+                    {  "size":1,
+                        "quantity":"קטן",
+                        "picture":"small_frozen.jpg",
+                        "tastesQuantity":0,
+                        "price":12
+                    },{
+                        "size":2,
+                        "quantity":"בינוני",
+                        "picture":"medium_frozen.jpg",
+                        "tastesQuantity":0,
+                        "price":20
+                    },{
+                        "size":3,
+                        "quantity":"גדול",
+                        "picture":"large_frozen.jpg",
+                        "tastesQuantity":0,
+                        "price":28
+                }],
+        "Extras":[
+                    {
+                        "name":"מנגו",
+                        "picture":"mango.jpg"
+                    },{
+                        "name":"תות",
+                        "picture":"strawberry.jpg"
+                    },{
+                        "name":"בננה",
+                        "picture":"banana.jpg"
+                    },{
+                        "name":"תמרים",
+                        "picture":"dates.jpg"
+                    },{
+                        "name":"קיווי",
+                        "picture":"kiwi.jpg"
+                    },{
+                        "name":"פירות יער",
+                        "picture":"berries.jpg"
+                    },{
+                        "name":"מקופלת לבנה",
+                        "picture":"white_choclate.jpg"
+                    },{
+                        "name":"מקופלת חומה",
+                        "picture":"milk_choclate.jpg"
+                }]
+    }
+            
+]

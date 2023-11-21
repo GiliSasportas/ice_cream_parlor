@@ -1,0 +1,37 @@
+body{
+    direction: rtl;
+   
+}
+.open{
+    background-color: white;
+    padding-top: 60px;
+}
+.open > img{
+    height: 250px;
+   margin-right: 650px;
+   padding-top: 40px;
+}
+nav.menu> div > ul>li >a{
+    color: rgb(193, 234, 255);
+ }
+ nav.menu> div > ul>li >a:hover{
+    background-color: rgb(193, 234, 255);
+     color: #000;
+ }
+ .allElements{
+    background-color: rgb(193, 234, 255);
+     margin-bottom: 0px;
+ }
+ .navMenu{
+    position: fixed;
+    top: 0px;
+    width: 99vw;
+}
+#content{
+    display: flex;
+    justify-content: center;
+}
+.form{
+    padding-top: 100px;
+    margin-right: 80px;
+}
